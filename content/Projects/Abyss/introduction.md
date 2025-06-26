@@ -10,7 +10,7 @@ tags:
 Abyss is an advanced C2 framework designed with Windows surveillance and ease-of-use in mind. 
 
 
-## C2 Overview
+## Overview
 
 - Simple Go server & API
 - Secure HTTP/HTTPS based communication model
